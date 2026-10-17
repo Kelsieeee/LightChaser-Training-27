@@ -1,0 +1,14 @@
+# 密钥文件：绝对不能提交，提交了等于把钱包送人
+.env
+.env.*
+# Python 运行产生的缓存
+__pycache__/
+*.pyc
+*.pyo
+# 编辑器
+.vscode/
+.idea/
+# 编译产物
+*.exe
+*.o
+*.out
